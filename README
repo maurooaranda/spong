@@ -1,0 +1,17 @@
+I watched a video of CS50's Introduction to Game Development
+https://online-learning.harvard.edu/course/cs50s-introduction-game-development
+and decided to implement a similar Pong game while taking the opportunity
+to learn Common Lisp along the way.
+
+So, S-Pong is an implementation of the CS50 Pong, with some variations
+of mine, in Common Lisp.
+
+Tested with: SBCL.
+
+To use: Put the spong directory in the local-projects repository of
+quicklisp, and type:
+(ql:quickload :spong)
+(in-package #:com.the-blackbeard.spong)
+(spong)
+
+Have fun!

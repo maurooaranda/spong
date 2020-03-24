@@ -1,0 +1,11 @@
+* bmp files
+Created by me, using GIMP: https://www.gimp.org/
+
+* wav files
+I took wall_hit.wav, score.wav and paddle_hit.wav from the CS50 Pong
+repository: https://github.com/games50/pong
+I made powerup.wav using jfxr: https://jfxr.frozenfractal.com/#
+
+* ttf file
+I took font.ttf from the CS50 Pong repository as well.
+
